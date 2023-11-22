@@ -1,4 +1,4 @@
-# Sales-Analysis-of-Diwali-Sales-Unveiling-Key-Trends-with-Data-Science
+# Sales Analysis of Diwali Sales Unveiling Key Trends with Data Science
 
 Title : - Sales Analysis of Diwali Sales: Unveiling Key Trends with Data Science
 
